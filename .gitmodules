@@ -1,0 +1,15 @@
+[submodule "parent"]
+	path = parent
+	url = https://github.com/Goparatool/platform-parent.git
+[submodule "common"]
+	path = common
+	url = https://github.com/Goparatool/platform-common.git
+[submodule "email"]
+	path = email
+	url = https://github.com/Goparatool/platform-email.git
+[submodule "server-runnable"]
+	path = server-runnable
+	url = https://github.com/Goparatool/platform-sr.git
+[submodule "api"]
+	path = api
+	url = https://github.com/Goparatool/application-library-api.git
